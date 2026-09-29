@@ -1,7 +1,6 @@
 # Multi-Tissue Xenium Spatial Transcriptomics Analysis
 
-**Author:** Funmi Oyebamiji
-**Date:** July 2024
+**Author:** Funmi Oyebamiji &nbsp;|&nbsp; **Date:** July 2024
 
 ---
 
